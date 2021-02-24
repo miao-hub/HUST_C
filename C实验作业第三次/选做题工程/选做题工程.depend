@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1542446183 source:d:\c语言\c实验作业第三次\选做题工程\file1.c
+	"file.h"
+
+1542446177 d:\c语言\c实验作业第三次\选做题工程\file.h
+	<stdio.h>
+
