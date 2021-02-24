@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1542801364 source:d:\c语言\c实验作业第四次\项目调试题\main.c
+	"stdio.h"
+	"assert.h"
+
